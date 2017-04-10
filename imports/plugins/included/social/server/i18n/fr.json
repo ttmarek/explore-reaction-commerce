@@ -1,0 +1,27 @@
+[{
+  "i18n": "fr",
+  "ns": "reaction-social",
+  "translation": {
+    "reaction-social": {
+      "admin": {
+        "dashboard": {
+          "socialLabel": "Social",
+          "socialTitle": "Social",
+          "socialDescription": "configuration Canal social"
+        },
+        "settings": {
+          "facebook": "Facebook",
+          "twitter": "Twitter",
+          "pinterest": "Pinterest",
+          "googleplus": "Google+",
+          "appId": "App Id",
+          "username": "Nom d'utilisateur",
+          "appSecret": "App secret",
+          "profilePage": "Page de profil",
+          "socialSettingsLabel": "Paramètres sociaux",
+          "socialSettingsSaved": "paramètres sociaux enregistrés"
+        }
+      }
+    }
+  }
+}]

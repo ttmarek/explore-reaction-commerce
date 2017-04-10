@@ -1,0 +1,27 @@
+[{
+  "i18n": "hu",
+  "ns": "reaction-social",
+  "translation": {
+    "reaction-social": {
+      "admin": {
+        "dashboard": {
+          "socialLabel": "Társadalmi",
+          "socialTitle": "Társadalmi",
+          "socialDescription": "Szociális csatorna konfigurációja"
+        },
+        "settings": {
+          "facebook": "Facebook",
+          "twitter": "Twitter",
+          "pinterest": "pinterest",
+          "googleplus": "Google+",
+          "appId": "App Id",
+          "username": "felhasználó",
+          "appSecret": "App Secret",
+          "profilePage": "Profil oldal",
+          "socialSettingsLabel": "szociális beállítások",
+          "socialSettingsSaved": "Szociális beállítások mentve"
+        }
+      }
+    }
+  }
+}]

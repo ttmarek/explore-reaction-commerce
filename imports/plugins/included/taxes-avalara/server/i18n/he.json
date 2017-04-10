@@ -1,0 +1,33 @@
+[{
+  "language": "Hebrew",
+  "i18n": "he",
+  "ns": "taxes-avalara",
+  "translation": {
+    "reaction-taxes": {
+      "settings": {
+        "username": "שם משתמש",
+        "password": "סיסמה"
+      },
+      "logGrid": {
+        "columns": {
+          "date": "תאריך"
+        }
+      },
+      "admin": {
+        "shortcut": {
+          "avalaraLabel": "Avalara",
+          "avalaraTitle": "Avalara"
+        },
+        "dashboard": {
+          "avalaraLabel": "Avalara",
+          "avalaraTitle": "Avalara",
+          "avalaraDescription": "אחוזי מס Avalara"
+        },
+        "taxSettings": {
+          "avalaraLabel": "Avalara",
+          "avalaraSettingsLabel": "Avalara"
+        }
+      }
+    }
+  }
+}]

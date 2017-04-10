@@ -1,0 +1,27 @@
+[{
+  "i18n": "bg",
+  "ns": "reaction-social",
+  "translation": {
+    "reaction-social": {
+      "admin": {
+        "dashboard": {
+          "socialLabel": "социален",
+          "socialTitle": "социален",
+          "socialDescription": "конфигурация социален Канал"
+        },
+        "settings": {
+          "facebook": "Facebook",
+          "twitter": "Twitter",
+          "pinterest": "Pinterest",
+          "googleplus": "Google+",
+          "appId": "Id App",
+          "username": "Потребителско име",
+          "appSecret": "App Secret",
+          "profilePage": "профилна страница",
+          "socialSettingsLabel": "социални Settings",
+          "socialSettingsSaved": "Социални настройки, запаметени"
+        }
+      }
+    }
+  }
+}]

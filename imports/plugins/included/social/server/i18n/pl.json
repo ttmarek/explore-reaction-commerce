@@ -1,0 +1,27 @@
+[{
+  "i18n": "pl",
+  "ns": "reaction-social",
+  "translation": {
+    "reaction-social": {
+      "admin": {
+        "dashboard": {
+          "socialLabel": "Społeczny",
+          "socialTitle": "Społeczny",
+          "socialDescription": "Konfiguracja kanału Społecznej"
+        },
+        "settings": {
+          "facebook": "Facebook",
+          "twitter": "Świergot",
+          "pinterest": "Pinterest",
+          "googleplus": "Google+",
+          "appId": "App Id",
+          "username": "Nazwa użytkownika",
+          "appSecret": "App Tajny",
+          "profilePage": "Strona profilowa",
+          "socialSettingsLabel": "Ustawienia społeczne",
+          "socialSettingsSaved": "Ustawienia zapisane społeczne"
+        }
+      }
+    }
+  }
+}]

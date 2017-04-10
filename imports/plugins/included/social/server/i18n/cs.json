@@ -1,0 +1,27 @@
+[{
+  "i18n": "cs",
+  "ns": "reaction-social",
+  "translation": {
+    "reaction-social": {
+      "admin": {
+        "dashboard": {
+          "socialLabel": "Sociální",
+          "socialTitle": "Sociální",
+          "socialDescription": "Konfigurace sociální Channel"
+        },
+        "settings": {
+          "facebook": "Facebook",
+          "twitter": "Cvrlikání",
+          "pinterest": "Pinterest",
+          "googleplus": "Google+",
+          "appId": "Id App",
+          "username": "Uživatelské jméno",
+          "appSecret": "App Secret",
+          "profilePage": "stránka profilu",
+          "socialSettingsLabel": "sociální Nastavení",
+          "socialSettingsSaved": "Sociální nastavení uloženo"
+        }
+      }
+    }
+  }
+}]

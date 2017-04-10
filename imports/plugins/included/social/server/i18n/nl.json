@@ -1,0 +1,27 @@
+[{
+  "i18n": "nl",
+  "ns": "reaction-social",
+  "translation": {
+    "reaction-social": {
+      "admin": {
+        "dashboard": {
+          "socialLabel": "sociaal",
+          "socialTitle": "sociaal",
+          "socialDescription": "Sociale Channel configuratie"
+        },
+        "settings": {
+          "facebook": "Facebook",
+          "twitter": "Twitter",
+          "pinterest": "Pinterest",
+          "googleplus": "Google+",
+          "appId": "App Id",
+          "username": "Gebruikersnaam",
+          "appSecret": "App Secret",
+          "profilePage": "Profiel pagina",
+          "socialSettingsLabel": "sociale Instellingen",
+          "socialSettingsSaved": "Sociale instellingen opgeslagen"
+        }
+      }
+    }
+  }
+}]

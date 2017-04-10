@@ -1,0 +1,27 @@
+[{
+  "i18n": "ar",
+  "ns": "reaction-social",
+  "translation": {
+    "reaction-social": {
+      "admin": {
+        "dashboard": {
+          "socialLabel": "اجتماعي",
+          "socialTitle": "اجتماعي",
+          "socialDescription": "التكوين قناة الاجتماعية"
+        },
+        "settings": {
+          "facebook": "فيسبوك",
+          "twitter": "تويتر",
+          "pinterest": "بينتيريست",
+          "googleplus": "في + Google",
+          "appId": "التطبيق رقم",
+          "username": "اسم المستخدم",
+          "appSecret": "التطبيق السرية",
+          "profilePage": "الصفحة الشخصية",
+          "socialSettingsLabel": "الوضع الاجتماعي",
+          "socialSettingsSaved": "الأوساط الاجتماعية حفظ"
+        }
+      }
+    }
+  }
+}]

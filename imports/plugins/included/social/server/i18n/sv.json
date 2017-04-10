@@ -1,0 +1,27 @@
+[{
+  "i18n": "sv",
+  "ns": "reaction-social",
+  "translation": {
+    "reaction-social": {
+      "admin": {
+        "dashboard": {
+          "socialLabel": "Socialt",
+          "socialTitle": "Socialt",
+          "socialDescription": "Social kanalkonfiguration"
+        },
+        "settings": {
+          "facebook": "facebook",
+          "twitter": "Twitter",
+          "pinterest": "Pinterest",
+          "googleplus": "Google+",
+          "appId": "app-ID",
+          "username": "Användarnamn",
+          "appSecret": "app Secret",
+          "profilePage": "Profilsida",
+          "socialSettingsLabel": "sociala inställningar",
+          "socialSettingsSaved": "Sociala inställningar sparas"
+        }
+      }
+    }
+  }
+}]
